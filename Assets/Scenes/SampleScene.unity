@@ -1173,7 +1173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRigidBody2D: {fileID: 1692652141}
   flapAura: 6
-  logic: {fileID: 0}
+  logic: {fileID: 80098281}
   flapAudio: {fileID: 1692652146}
 --- !u!61 &1692652145
 BoxCollider2D:
